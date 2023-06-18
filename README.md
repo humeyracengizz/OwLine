@@ -10,5 +10,10 @@ Kullanıcı adı: bursahackathon
 
 __Modül ve Arayüz Çalışma Videosu:__  
 https://drive.google.com/drive/folders/1JXOIMA04FWKFwto_wiRDIC-jt-qkS-2h?usp=sharing  
-![WhatsApp Image 2023-06-18 at 12 20 48](https://github.com/humeyracengizz/OwLine/assets/83345306/1c494ec9-64ec-4556-9b87-19c86dd7eabd)
+  
+![WhatsApp Image 2023-06-18 at 12 20 48](https://github.com/humeyracengizz/OwLine/assets/83345306/1c494ec9-64ec-4556-9b87-19c86dd7eabd)  
+![WhatsApp Image 2023-06-18 at 12 21 58](https://github.com/humeyracengizz/OwLine/assets/83345306/3ec80bec-f6f4-47cd-ac62-97acacf20008)  
+![WhatsApp Image 2023-06-18 at 12 21 53](https://github.com/humeyracengizz/OwLine/assets/83345306/75a21667-8d2e-4c60-a333-bdfb8ffe0f56)  
+
+
 
