@@ -8,6 +8,6 @@ __Kullanıcı girişi için:__
 Kullanıcı adı: bursahackathon  
 Şifre: owloop  
 
-__Modül ve Arayüz Çalışma Videosu:__
+__Modül ve Arayüz Çalışma Videosu:__  
 https://drive.google.com/drive/folders/1JXOIMA04FWKFwto_wiRDIC-jt-qkS-2h?usp=sharing
 
