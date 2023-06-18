@@ -9,6 +9,6 @@ Kullanıcı adı: bursahackathon
 Şifre: owloop  
 
 __Modül ve Arayüz Çalışma Videosu:__  
-https://drive.google.com/drive/folders/1JXOIMA04FWKFwto_wiRDIC-jt-qkS-2h?usp=sharing
+https://drive.google.com/drive/folders/1JXOIMA04FWKFwto_wiRDIC-jt-qkS-2h?usp=sharing  
 ![WhatsApp Image 2023-06-18 at 12 20 48](https://github.com/humeyracengizz/OwLine/assets/83345306/1c494ec9-64ec-4556-9b87-19c86dd7eabd)
 
